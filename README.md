@@ -1,4 +1,4 @@
-# Cyclone Track Predictor — Friend's README
+# Cyclone Track Predictor
 
 This lets you predict the future track of a **new** tropical cyclone using the
 pre-trained V12 (best) model. You feed in the cyclone's *observed history* and get
