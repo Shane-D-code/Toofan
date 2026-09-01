@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+results.csv
+feature_importance.json
+xgb_recurve_model.json
+
+# raw data isn't tracked -- fetch it separately, see README
+data/*.csv
+!data/.gitkeep
