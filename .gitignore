@@ -28,6 +28,8 @@ Thumbs.db
 # Raw data
 data/*.csv
 !data/.gitkeep
+recurvature/data/*.csv
+!recurvature/data/.gitkeep
 
 # Large training / intermediate CSVs
 *_checkpoint.csv

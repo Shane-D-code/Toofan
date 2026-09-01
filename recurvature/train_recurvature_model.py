@@ -75,6 +75,8 @@ DEFAULT_POSSIBLE_PATHS = [
     "ibtracs_NI_list_v04r01.csv",
     "ibtracs.NI.list.v04r01.csv",
     "data/ibtracs_NI_list_v04r01.csv",
+    "recurvature/data/ibtracs_NI_list_v04r01.csv",
+    "/Users/khoria/Downloads/toofan_repo/recurvature/data/ibtracs_NI_list_v04r01.csv",
     "/Users/khoria/Downloads/toofan_repo/data/ibtracs_NI_list_v04r01.csv",
     "/Users/khoria/Downloads/ibtracs.NI.list.v04r01.csv",
 ]
