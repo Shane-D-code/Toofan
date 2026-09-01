@@ -1,0 +1,60 @@
+{
+    "model_name": "Rainfall Model 12",
+    "model_type": "Extreme-Rainfall-Aware Two-Stage Random Forest",
+    "classifier": {
+        "algorithm": "RandomForestClassifier",
+        "n_estimators": 300,
+        "max_depth": 18,
+        "min_samples_leaf": 3,
+        "class_weight": "balanced",
+        "random_state": 42
+    },
+    "regressor": {
+        "algorithm": "RandomForestRegressor",
+        "n_estimators": 300,
+        "max_depth": 20,
+        "min_samples_leaf": 2,
+        "random_state": 42
+    },
+    "heavy_rain_threshold_mm_hr": 10.0,
+    "heavy_probability_threshold": 0.5,
+    "extreme_rainfall_multiplier": 1.2,
+    "feature_count": 25,
+    "features": [
+        "latitude",
+        "longitude",
+        "cyclone_latitude",
+        "cyclone_longitude",
+        "cyclone_wind_kt",
+        "cyclone_pressure_hpa",
+        "cyclone_pressure_drop_hpa",
+        "relative_latitude",
+        "relative_longitude",
+        "distance_to_cyclone_km",
+        "hour",
+        "day_of_year",
+        "distance_squared",
+        "wind_distance_interaction",
+        "pressure_drop_distance",
+        "rainfall_lag_30min",
+        "rainfall_lag_60min",
+        "rainfall_change_30min",
+        "rainfall_lag_30min_squared",
+        "rainfall_lag_60min_squared",
+        "recent_rainfall_mean",
+        "recent_rainfall_max",
+        "wind_rainfall_interaction",
+        "pressure_drop_rainfall_interaction",
+        "rainfall_distance_interaction"
+    ],
+    "training_samples": 168000,
+    "testing_samples": 112000,
+    "metrics": {
+        "classification_precision": 0.9196879302432308,
+        "classification_recall": 0.978515625,
+        "classification_f1": 0.9481902058197303,
+        "mae": 0.0785,
+        "rmse": 0.5598,
+        "r2": 0.9645
+    }
+}

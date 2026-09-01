@@ -1,0 +1,29 @@
+{
+    "model": "XGBoost Rainfall + Hydrological Features",
+    "validation": {
+        "validation_type": "Spatial Holdout",
+        "roc_auc": 0.9635,
+        "pr_auc": 0.814,
+        "precision": 0.7647,
+        "recall": 0.7222,
+        "f1": 0.7429
+    },
+    "dataset": {
+        "total_rows": 36278,
+        "unique_timestamps": 97,
+        "unique_grid_cells": 374
+    },
+    "latest_timestamp": "2019-05-04 00:00:00+00:00",
+    "latest_risk_distribution": {
+        "Low": 305,
+        "Moderate": 0,
+        "High": 3,
+        "Very High": 66
+    },
+    "highest_risk_cell": {
+        "latitude": 19.75,
+        "longitude": 85.65,
+        "flood_probability": 0.9999968,
+        "risk_level": "Very High"
+    }
+}

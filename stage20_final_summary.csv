@@ -1,0 +1,2 @@
+prediction_start,prediction_end,timestamps,grid_cells,peak_rainfall_mm_hr,peak_latitude,peak_longitude,peak_timestamp,peak_hazard,cells_ge_10_total,cells_ge_20_total,cells_ge_30_total,cells_ge_40_total,extreme_cells_total
+2019-04-30 04:00:00,2019-04-30 05:30:00,4,28000,51.19942285966824,13.75,83.65,2019-04-30 05:30:00,Extreme,2189,1019,316,142,316
