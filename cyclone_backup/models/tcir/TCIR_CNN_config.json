@@ -1,0 +1,7 @@
+{
+    "img_size": 128,
+    "channels": 4,
+    "ri_definition": "24h increase in Vmax >= 30 kt",
+    "threshold": 0.21000000000000002,
+    "model_type": "TCIR 4-channel CNN"
+}

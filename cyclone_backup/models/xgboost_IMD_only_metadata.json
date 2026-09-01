@@ -1,0 +1,25 @@
+{
+    "model": "XGBoost",
+    "dataset": "IMD-only",
+    "features": [
+        "latitude",
+        "longitude",
+        "max_wind_kt",
+        "central_pressure_hpa",
+        "pressure_drop_hpa",
+        "wind_6h_change",
+        "wind_minus_6h_kt",
+        "delta_v_minus_6h_kt",
+        "wind_minus_12h_kt",
+        "delta_v_minus_12h_kt",
+        "wind_minus_24h_kt",
+        "delta_v_minus_24h_kt"
+    ],
+    "threshold": 0.64,
+    "test_roc_auc": 0.9406,
+    "test_pr_auc": 0.3534,
+    "test_precision": 0.4545,
+    "test_recall": 0.7143,
+    "test_f1": 0.5556,
+    "test_false_alarm_rate": 0.042
+}

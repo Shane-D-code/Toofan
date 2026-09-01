@@ -1,0 +1,2 @@
+n_train,n_test,ROC_AUC,PR_AUC,POD,FAR,CSI,TP,FP,FN,TN
+8,3,0.5,0.5,1.0,0.5,0.5,1,1,0,1

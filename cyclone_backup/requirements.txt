@@ -1,0 +1,27 @@
+# Runtime dependencies for the cyclone RI detection MVP
+# Tested with Python 3.11+ (works on 3.10+ too).
+#
+# Install with:
+#   pip install -r requirements.txt
+
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.2
+xgboost>=2.0
+matplotlib>=3.7
+PyYAML>=6.0
+xarray>=2023.1
+netCDF4>=1.6
+# Optional: needed only for SHAP/TreeExplainer summary plots.
+# pip install shap
+# ---------------------------------------------------------------------------
+# Satellite CNN branch (canonical model in src/satellite_cnn.py).
+# PyTorch is NOT installed on the macOS host (it crashes here); install it in
+# Google Colab where the CNN is actually trained:
+#   pip install torch
+# ---------------------------------------------------------------------------
+# torch>=2.0
+# Optional: rebuild IMD RI labels from raw best-track (tc_ri_cnn/data).
+# pip install imdtrack
+# Optional: download the full MERG-IR archive (tc_ri_cnn/data/download_mergir.py).
+# pip install earthaccess
