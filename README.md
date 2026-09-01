@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Recurvature Cyclone Model
 
 Predicts whether a cyclone will **recurve** (heading change &ge; 45&deg; within
@@ -77,10 +78,8 @@ came in slightly behind XGBoost (ROC-AUC 0.69 and 0.68) — with the current
 dataset size (~276 training storms), tree-based models outperform deep
 sequence models. That ranking is worth re-checking if the dataset grows
 (e.g. by adding ERA5 steering-flow features).
-
----
-
-## Cyclone Track Predictor (V12 Model)
+=======
+# Cyclone Track Predictor
 
 This lets you predict the future track of a **new** tropical cyclone using the
 pre-trained V12 (best) model. You feed in the cyclone's *observed history* and get
@@ -226,3 +225,4 @@ acceleration, and turn sin/cos).
   reanalysis steering fields are not captured.
 - **Needs ≥ 12 observed fixes** to predict; more history = better forecast.
 - It predicts **track only** (position), not intensity.
+>>>>>>> origin/main
