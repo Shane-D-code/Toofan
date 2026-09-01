@@ -37,7 +37,7 @@ def evaluate(name: str, y_true, y_prob, threshold: float = 0.5) -> dict:
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Train the TOOFAN XGBoost recurvature model.")
+    parser = argparse.ArgumentParser(description="Train the Recurvature Cyclone Model.")
     parser.add_argument("--csv", required=True, help="Path to ibtracs_NI_list_v04r01.csv")
     parser.add_argument("--min-season", type=int, default=1980)
     parser.add_argument("--turn-threshold", type=float, default=45.0, help="Degrees of heading change counted as recurving")

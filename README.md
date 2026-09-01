@@ -1,4 +1,4 @@
-# TOOFAN — recurvature prediction (XGBoost)
+# Recurvature Cyclone Model
 
 Predicts whether a cyclone will **recurve** (heading change &ge; 45&deg; within
 the next 24h) using IBTrACS North Indian Ocean best-track data.
