@@ -1,0 +1,6 @@
+Wind Model Normalization Parameters
+==================================
+U10 mean: 1.7261697
+U10 std: 4.4725676
+V10 mean: 3.1894329
+V10 std: 4.518691

@@ -1,0 +1,12 @@
+{
+  "method": "global_physical_fixed_window",
+  "clip_min_kelvin": 180.0,
+  "clip_max_kelvin": 310.0,
+  "description": "norm = (clip_max - Tb) / (clip_max - clip_min); cold=1",
+  "nan_fill": 0.5,
+  "n_images": 26,
+  "n_storms": 23,
+  "n_ri": 9,
+  "n_non_ri": 17,
+  "mean_nan_fraction": 0.040048835040208626
+}

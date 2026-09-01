@@ -1,12 +1,40 @@
+# Python
 __pycache__/
 *.pyc
-.venv/
+.ipynb_checkpoints/
+
+# Python environments
 venv/
+.venv/
 *.egg-info/
+
+# Model outputs & metrics
 results.csv
 feature_importance.json
 xgb_recurve_model.json
 
-# raw data isn't tracked -- fetch it separately, see README
+# IDE / OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Large datasets & binaries
+*.HDF5
+*.h5
+*.nc
+*.npy
+*.zip
+
+# Raw data
 data/*.csv
 !data/.gitkeep
+
+# Large training / intermediate CSVs
+*_checkpoint.csv
+model*_checkpoint.csv
+*_final_flood_model_dataset.csv
+
+# Oversized models & logs
+rain/model/rainfall_regressor_12.pkl
+*.tmp
+*.log

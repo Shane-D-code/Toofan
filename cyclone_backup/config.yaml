@@ -1,0 +1,188 @@
+# ============================================================
+# Configuration — Bay of Bengal Cyclone RI Detection MVP
+# ============================================================
+# Single source of truth for paths, the random seed, the RI
+# definition, and split settings, so every model in the pipeline
+# uses the same deterministic settings.
+# ============================================================
+
+# Global random seed (used wherever random state is required).
+seed: 42
+
+# ------------------------------------------------------------
+# Paths
+# ------------------------------------------------------------
+paths:
+  data_dir: "models"
+  imd_file: "models/IMD_BoB_RI_training_base.csv"
+  era5_file: "models/RI_ERA5_features_MVP.csv"
+  satellite_metadata: "satellite_cnn_recovered/metadata_clean.csv"
+  multimodal_file: "ri_multimodal_dataset.csv"
+
+  # Output directories (created if missing)
+  results_dir: "results"
+  models_dir: "models"
+  figures_dir: "figures"
+  dataset_dir: "satellite_cnn_recovered"
+
+# ------------------------------------------------------------
+# RI definition
+# ------------------------------------------------------------
+ri:
+  # Rapid intensification is defined over the following window.
+  horizon_hours: 24
+  # RI positive when the 24 h wind increase meets / exceeds this threshold (kt).
+  threshold_kt: 30
+  target_column: "RI_24h"
+
+# ------------------------------------------------------------
+# Storm-safe split settings
+# ------------------------------------------------------------
+split:
+  # Fraction of STORMS (not observations) held out for testing.
+  test_storm_fraction: 0.20
+  # Fraction of the remaining STORMS held out for validation.
+  val_storm_fraction: 0.15
+  # If true, require that every split contains both classes once at least
+  # three storms are available; otherwise reduce gracefully.
+  keep_balanced: true
+
+# ------------------------------------------------------------
+# IMD-only XGBoost
+# ------------------------------------------------------------
+imd_model:
+  model_type: "xgb"
+  n_estimators: 400
+  learning_rate: 0.05
+  max_depth: 4
+  min_child_weight: 2
+  subsample: 0.85
+  colsample_bytree: 0.85
+  early_stopping_rounds: 50
+  cv_folds: 5
+  # Optimise threshold on validation data for F1.
+  metric: "pr_auc"
+
+# ------------------------------------------------------------
+# ERA5-only XGBoost
+# ------------------------------------------------------------
+era5_model:
+  model_type: "xgb"
+  n_estimators: 400
+  learning_rate: 0.05
+  max_depth: 4
+  min_child_weight: 2
+  subsample: 0.85
+  colsample_bytree: 0.85
+  early_stopping_rounds: 50
+  cv_folds: 5
+  metric: "pr_auc"
+
+# ------------------------------------------------------------
+# IMD + ERA5 combined XGBoost
+# ------------------------------------------------------------
+combined_model:
+  model_type: "xgb"
+  n_estimators: 400
+  learning_rate: 0.05
+  max_depth: 4
+  min_child_weight: 2
+  subsample: 0.85
+  colsample_bytree: 0.85
+  early_stopping_rounds: 50
+  cv_folds: 5
+  metric: "pr_auc"
+
+# ------------------------------------------------------------
+# Temporal ERA5 (Phase 8): lag periods (hours) for delta features.
+# ------------------------------------------------------------
+temporal:
+  enabled: true
+  lags_h: [6, 12, 24]
+
+# ------------------------------------------------------------
+# ERA5 model: include temporal delta features.
+# ------------------------------------------------------------
+era5_use_temporal: true
+
+# ------------------------------------------------------------
+# Satellite CNN (PyTorch, local Bay of Bengal)
+# ------------------------------------------------------------
+# The satellite branch is trained in Google Colab because TensorFlow crashes
+# on the local (macOS) box. The pipeline *ingests* the Colab outputs
+# (satellite_oof_predictions.csv, satellite_embeddings.npy, satellite_cnn.keras)
+# when present; otherwise it reports the branch as pending Colab output.
+cnn:
+  img_size: 128
+  batch_size: 4
+  epochs: 60
+  patience: 10
+  learning_rate: 0.001
+  # Augmentation parameters (only used if enough images exist).
+  augmentation:
+    rotation_deg: 15
+    shift_fraction: 0.10
+    brightness_range: [0.9, 1.1]
+    horizontal_flip: false  # not physically justified for TC structure
+    random_flip_vertical: false
+    random_noise_std: 0.02
+  min_images_for_training: 4
+
+# ------------------------------------------------------------
+# TCIR CNN (Keras, global TCIR HDF5 dataset)
+# ------------------------------------------------------------
+# A separate 4-channel CNN trained on the global TCIR dataset (23,118 cases).
+# The model + normalization stats live under models/tcir/. The pipeline
+# ingests precomputed outputs (tcir_oof_predictions.csv, tcir_embeddings.npy)
+# produced by the Kaggle notebook; full inference requires TensorFlow.
+tcir:
+  model_dir: "models/tcir"
+  model_file: "TCIR_CNN_RI_FINAL.keras"
+  mean_file: "TCIR_channel_mean.npy"
+  std_file: "TCIR_channel_std.npy"
+  config_file: "TCIR_CNN_config.json"
+  # Precomputed bridge artifacts (produced by Kaggle notebook).
+  oof_predictions: "results/tcir_oof_predictions.csv"
+  embeddings_npy: "results/tcir_embeddings.npy"
+  embeddings_meta: "results/tcir_embeddings_meta.csv"
+  # Embedding dimension (Dense(128) layer before sigmoid).
+  embedding_dim: 128
+
+# ------------------------------------------------------------
+# Satellite recovery (from raw NCEP/CPC 4km IR .nc4 granules)
+# ------------------------------------------------------------
+satellite:
+  nc4_dir: "Cnnfiles"
+  recovered_dir: "satellite_cnn_recovered"
+  img_size: 128
+  # Geographic half-extent of the storm-centred crop (degrees).
+  crop_half_deg: 5.0
+  # Max time difference (minutes) between the satellite granule and the
+  # matched IMD observation that is still considered valid.
+  max_time_diff_min: 120
+  # Whether to also keep granules that overlap the same IMD observation
+  # (kept = nearest only when False).
+  keep_duplicates: false
+  # Physical brightness-temperature clipping range (Kelvin).
+  tb_clip_min: 180
+  tb_clip_max: 310
+
+# ------------------------------------------------------------
+# Late fusion meta-classifier
+# ------------------------------------------------------------
+fusion:
+  meta_model: "logistic"
+  # Paths where the branch models' probabilities are stored so the
+  # fusion step only runs over observations with all branches present.
+  imd_predictions: "results/imd_test_predictions.csv"
+  era5_predictions: "results/era5_test_predictions.csv"
+  cnn_predictions: "results/satellite_cnn_test_predictions.csv"
+
+# ------------------------------------------------------------
+# Evaluation / threshold
+# ------------------------------------------------------------
+evaluate:
+  # Threshold selection criterion on the validation set.
+  threshold_criterion: "f1"
+  # Thresholds to consider when tuning.
+  threshold_grid: 0.01

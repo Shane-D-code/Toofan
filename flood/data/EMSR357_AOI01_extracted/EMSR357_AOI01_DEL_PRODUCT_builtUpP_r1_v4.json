@@ -1,0 +1,509 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Unknown", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 86.403057, 20.201948 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "IOCL Paradip Refinery Township, Officer's Club", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 86.617009, 20.296945 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Unknown", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.785800, 19.313603 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "HP", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.207165, 19.749074 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Unknown", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.801515, 19.305025 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Unknown", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.803579, 19.311402 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Haryana Special Jalebi", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.785533, 19.313670 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "State Bank of India", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.206459, 19.748229 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Sbi", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.090211, 19.516366 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Andhra Bank", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.802084, 19.305033 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Unknown", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.724785, 19.180627 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Unknown", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.798587, 19.305461 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Medical College Campus Branch", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.810555, 19.306814 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Icici", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.985606, 19.356797 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "BINDASS CANTEEN(AMI)", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.215372, 19.745179 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "BP", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.207591, 19.749265 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "State Bank of India", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.988584, 19.356834 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Unknown", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.151198, 19.696542 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Unknown", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.180760, 19.689954 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Banpur", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.168154, 19.781593 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Personal Banking Branch", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.784013, 19.314003 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "ICICI", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.207379, 19.749440 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Unknown", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.189938, 19.705875 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Unknown", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.986974, 19.355041 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Andhra Bank Gram bikas", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.006261, 19.359597 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "District Library and Kala bhaban", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.982226, 19.351566 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Unknown", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.801469, 19.305031 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Andhra Bank", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.207292, 19.749352 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Hdfc", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.985580, 19.357025 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "SBI", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.201191, 19.747454 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Unknown", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.983198, 19.356967 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "University Post Office", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.878478, 19.299240 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "coffee alway cafe", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.184885, 19.711155 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Unknown", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.784938, 19.314080 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Krupa Nirmalaya", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.206730, 19.748181 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Indian Overseas Bank", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.820036, 19.308328 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Unknown", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.833383, 19.311105 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Unknown", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.812611, 19.307679 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Unknown", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.785702, 19.311728 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Girija Restaurant", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.786647, 19.313231 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Bullet Club", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.196421, 19.728234 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Andhra bank", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.089753, 19.517548 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Union Bank of India", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.209091, 19.752165 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Unknown", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.813970, 19.311485 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Bharat Petroleum", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.985067, 19.351963 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Unknown", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.784017, 19.313924 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Unknown", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.983181, 19.356962 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Debaraj Hotel", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.985449, 19.356723 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Unknown", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.666707, 19.799256 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "WildGrass", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.831688, 19.801931 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Unknown", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 86.096523, 19.887059 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "The Grand", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.820707, 19.805915 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "State Bank of India", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.824429, 19.809994 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "BP", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.830388, 19.812899 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Unknown", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.837908, 19.807633 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Ruchira", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.819593, 19.793669 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Gitanjali restaurant", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 86.098045, 19.888086 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Bank of Baroda", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 86.197744, 19.900146 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Unknown", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 86.190527, 19.903567 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Unknown", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.823867, 19.795287 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Unknown", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.337383, 19.876679 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "SBI", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.818869, 19.795443 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Unknown", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.439523, 19.667152 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Unknown", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.857550, 19.824493 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Greenland", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.945045, 19.856831 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Unknown", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 86.098343, 19.890909 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Padmalaya Veg Hotel", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.818204, 19.887926 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Unknown", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 86.098621, 19.890396 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "SBI", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.830648, 19.812929 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Unknown", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 86.110434, 19.865897 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Wooden Restaurant", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 86.110648, 19.867290 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "UCO Bank", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.806614, 19.895491 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Okaasan", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 86.098295, 19.884526 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Indian Oil", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.815968, 19.907797 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Indian Bank", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.822160, 19.807884 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "State Bank Of India", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.666893, 19.799251 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Unknown", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 86.096464, 19.887122 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Axis", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.832759, 19.814265 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Unknown", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.836443, 19.850364 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "UCO", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.820292, 19.793943 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Ruchira annex", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.823843, 19.795504 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Central Bank", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.821671, 19.806935 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "State Bank of India", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.813979, 19.893318 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Unknown", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.837685, 19.807797 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Domino's Pizza", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.825877, 19.796714 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "Unknown", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.666893, 19.799251 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "11-Residential Buildings", "name": "IDBI", "info": "997-Not Applicable", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.823792, 19.794944 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Saraswati Vidhya Mandir", "info": "1263-School, university and research buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 86.653099, 20.260438 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Port Trust High School", "info": "1263-School, university and research buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 86.652150, 20.260952 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "IOCL School", "info": "1263-School, university and research buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 86.615448, 20.296347 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "IOCL Hospital", "info": "1264-Hospital or institutional care buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 86.614314, 20.300465 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Sports Pavilion Parking", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 86.616774, 20.298796 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Hanuman Temple", "info": "1272-Buildings used as places of worship and for religious activities", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 86.625952, 20.309810 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Paradip Cinema Hall", "info": "1261-Public entertainment buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 86.658680, 20.265572 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "DAV School", "info": "1263-School, university and research buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 86.620139, 20.274924 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Saraswati Shishu Mandir", "info": "1263-School, university and research buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 86.660455, 20.265623 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Shiv Temple", "info": "1272-Buildings used as places of worship and for religious activities", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 86.620466, 20.272686 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Bethany Convent School", "info": "1263-School, university and research buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 86.651355, 20.262397 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Kendriya Vidyalaya", "info": "1263-School, university and research buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 86.653946, 20.268959 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "PPL Hospital", "info": "1264-Hospital or institutional care buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 86.618362, 20.276677 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Port Trust Hospital", "info": "1264-Hospital or institutional care buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 86.660984, 20.266283 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "DAV Public School", "info": "1263-School, university and research buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 86.661763, 20.267090 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Madhuban ME School", "info": "1263-School, university and research buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 86.652208, 20.270267 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Unknown", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 86.612272, 20.279499 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Jama Masjid", "info": "1272-Buildings used as places of worship and for religious activities", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 86.661310, 20.267133 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Jayadev Sadan", "info": "1261-Public entertainment buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 86.657151, 20.264717 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "NILAKANTHESWAR MANDIR", "info": "1272-Buildings used as places of worship and for religious activities", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.189852, 19.739883 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Hanuman Temple", "info": "1272-Buildings used as places of worship and for religious activities", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.880173, 19.318354 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Solar", "info": "1251-Industrial buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.728813, 19.288016 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Umamaheswar Temple", "info": "1272-Buildings used as places of worship and for religious activities", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.197843, 19.746029 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Primery School Bahadur Pentho", "info": "1263-School, university and research buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.765465, 19.166399 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Rickapalli Squar Bus Stop", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.988651, 19.359670 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Palia Bus Stop", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.996825, 19.359915 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Sai Temple", "info": "1272-Buildings used as places of worship and for religious activities", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.876868, 19.320308 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Tara Tarini Temple", "info": "1272-Buildings used as places of worship and for religious activities", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.899230, 19.488825 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "ସହିଦ ଲକ୍ଷ୍ମଣ ନାୟକ ସରକାରୀ ସ୍କୁଲ (Saheed Laxman Nayak Memorial Government Municipa", "info": "1263-School, university and research buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.802053, 19.305265 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Maa Bhagabati Temple", "info": "1272-Buildings used as places of worship and for religious activities", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.166473, 19.782644 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Ganesh Mandir", "info": "1272-Buildings used as places of worship and for religious activities", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.981382, 19.362310 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "ITI Bus Stop", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.982568, 19.364513 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Upper Bus Station", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.980710, 19.356061 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Shirdi Sai Mandir", "info": "1272-Buildings used as places of worship and for religious activities", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.168483, 19.780882 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Science college Bus Stop", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.985567, 19.350482 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Brisingh Temple", "info": "1272-Buildings used as places of worship and for religious activities", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.976688, 19.394537 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Hanuman Temple", "info": "1272-Buildings used as places of worship and for religious activities", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.765359, 19.167991 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Dakshyprajapati Temple", "info": "1272-Buildings used as places of worship and for religious activities", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.170464, 19.779102 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "bhaleri high school", "info": "1263-School, university and research buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.159002, 19.735920 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Railway Station Bus Stop", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.973273, 19.358598 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Biraswer Temple", "info": "1272-Buildings used as places of worship and for religious activities", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.977616, 19.365783 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Puruna chatrapur Bus Stop", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.977772, 19.350274 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Unknown", "info": "1272-Buildings used as places of worship and for religious activities", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.170305, 19.778709 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Thaku rani teample", "info": "1272-Buildings used as places of worship and for religious activities", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.983726, 19.356671 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "dadhibaman dev", "info": "1272-Buildings used as places of worship and for religious activities", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.208582, 19.744181 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Collectrate Bus Station", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.980441, 19.353689 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Golanthra", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.740519, 19.218590 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Basana palli Bus Stop", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.982604, 19.368583 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Paikakushdiha bus stop", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.233906, 19.784654 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Bateswer temple", "info": "1272-Buildings used as places of worship and for religious activities", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.107507, 19.421864 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Urruammoru", "info": "1272-Buildings used as places of worship and for religious activities", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.762305, 19.166351 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Surla Road", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.718822, 19.176525 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Visweswaraya Temple Bus Stop", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.973185, 19.352714 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Unknown", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.810361, 19.308480 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Nirmaljhara", "info": "1272-Buildings used as places of worship and for religious activities", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.065085, 19.601781 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Patalamma", "info": "1272-Buildings used as places of worship and for religious activities", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.763261, 19.167022 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "De Paul School", "info": "1263-School, university and research buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.820516, 19.308819 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Hanuman Temple", "info": "1272-Buildings used as places of worship and for religious activities", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.782500, 19.315838 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "New Bus Station", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.982735, 19.352790 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Narasinha Temple Paili", "info": "1272-Buildings used as places of worship and for religious activities", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.763569, 19.168077 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Chatrapur Court", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.982845, 19.359315 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Bus Station", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.977526, 19.354608 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Government Girls High School", "info": "1263-School, university and research buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.783069, 19.313776 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "maa jagulai temple", "info": "1272-Buildings used as places of worship and for religious activities", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.204987, 19.744915 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Unknown", "info": "1272-Buildings used as places of worship and for religious activities", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.169602, 19.779825 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "CHATRAPUR BUS STATION", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.981614, 19.351127 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Collectrate Bus Station", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.980232, 19.353709 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Station squar Bus Station", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.979582, 19.355521 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Narasimhapura", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.939085, 19.363574 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "gopinathpur UP school", "info": "1263-School, university and research buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.196635, 19.756298 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Trinath Temple", "info": "1272-Buildings used as places of worship and for religious activities", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.765622, 19.167591 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Science college Bus Stop", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.985527, 19.350191 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Brahmapur Railway Station", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.797400, 19.296752 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Chilika School", "info": "1263-School, university and research buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.186600, 19.713138 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Saralapadar UP School", "info": "1263-School, university and research buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.210907, 19.756134 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Uttarayani's Temple", "info": "1272-Buildings used as places of worship and for religious activities", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.210722, 19.755333 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "BALUGAON HIGH SCHOOL", "info": "1263-School, university and research buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.198799, 19.753521 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "palia Bus Stop", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.995937, 19.359722 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Bus Stop", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.970531, 19.351754 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Unknown", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.810687, 19.308520 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Unknown", "info": "1272-Buildings used as places of worship and for religious activities", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.212503, 19.760903 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "chandan temple", "info": "1272-Buildings used as places of worship and for religious activities", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.198772, 19.745919 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "JALESWAR MANDIR", "info": "1272-Buildings used as places of worship and for religious activities", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.229614, 19.789914 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Chatrapur Main Bus stand", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.987184, 19.355596 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "DRDA Bus Stop", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.978059, 19.350519 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Ujlesweri Teample", "info": "1272-Buildings used as places of worship and for religious activities", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.965169, 19.348991 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Maa Ramchandi Temple", "info": "1272-Buildings used as places of worship and for religious activities", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.016589, 19.395396 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Arabindoschool Bus Stop", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.985645, 19.352008 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Sonakuda Temple", "info": "1272-Buildings used as places of worship and for religious activities", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.147504, 19.555073 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Science college squar Bus Stop", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.985333, 19.352058 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Bus Station", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.982471, 19.350719 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Chatrapur OLD Bus Stop", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.987184, 19.355480 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Cort Station squar Bus Stop", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.983885, 19.359915 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Lingaraj Talkies", "info": "1261-Public entertainment buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.780730, 19.308054 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Bus Stop", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.970028, 19.351320 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Government High School", "info": "1263-School, university and research buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 84.813061, 19.307842 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Unknown", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.723552, 19.807299 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Unknown", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.850899, 19.805500 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Puri", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.837791, 19.807934 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Unknown", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.564380, 19.739211 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Puri Bus Station", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.839113, 19.814766 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Puri Local Bus Stand", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.837939, 19.815701 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Chandanpur Bus Stop", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.817106, 19.889620 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Unknown", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.569441, 19.741919 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "kedarswar temple", "info": "1272-Buildings used as places of worship and for religious activities", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.409189, 19.892349 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Bhargabi High School", "info": "1263-School, university and research buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.801561, 19.894744 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Unknown", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.603651, 19.779300 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Unknown", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 86.111659, 19.865561 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Shani Temple", "info": "1272-Buildings used as places of worship and for religious activities", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.825993, 19.812710 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Car Parking", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.824297, 19.810474 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Unknown", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.843045, 19.803155 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Unknown", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.703601, 19.802311 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Unknown", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.630839, 19.792712 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Unknown", "info": "1263-School, university and research buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.843289, 19.805331 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Unknown", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.607466, 19.783765 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Batamangala Temple", "info": "1272-Buildings used as places of worship and for religious activities", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.836835, 19.840113 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Unknown", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.578415, 19.752966 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Birapurushottampur", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.806328, 19.990470 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Unknown", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.504450, 19.702310 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Unknown", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.646480, 19.798311 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Unknown", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.697445, 19.801509 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Satapada Bus Stand", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.437953, 19.666389 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Unknown", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.528591, 19.721843 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "budhi maa temple", "info": "1272-Buildings used as places of worship and for religious activities", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.425757, 19.652598 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Chandrabhaga beach", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 86.111377, 19.865826 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Narsinghpur Sidi", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.811208, 19.895497 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Unknown", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.673818, 19.798408 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Unknown", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.837296, 19.806130 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Delang", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.767428, 20.038172 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Unknown", "info": "1261-Public entertainment buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.826669, 19.799702 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Unknown", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 86.100437, 19.888979 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Unknown", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.747808, 19.811205 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Jenapur", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.786736, 20.018100 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Unknown", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.737414, 19.809725 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Alaranth Temple", "info": "1272-Buildings used as places of worship and for religious activities", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.665435, 19.798475 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Unknown", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.716715, 19.806433 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Nilakantha Temple", "info": "1272-Buildings used as places of worship and for religious activities", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.795710, 19.895815 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Jankidaipur", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.819373, 19.889773 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Unknown", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.691011, 19.798841 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Unknown", "info": "1272-Buildings used as places of worship and for religious activities", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 86.095678, 19.888610 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Sakhigopal", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.815964, 19.943040 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Unknown", "info": "1263-School, university and research buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.567288, 19.740116 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Unknown", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.639782, 19.796851 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Catholic Centre", "info": "1272-Buildings used as places of worship and for religious activities", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.827186, 19.802581 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Unknown", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.560607, 19.736938 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Unknown", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.686401, 19.797553 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Unknown", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.507411, 19.706402 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Unknown", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.524374, 19.719401 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Unknown", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.620542, 19.789724 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Unknown", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.590165, 19.756526 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Unknown", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.656360, 19.798792 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Unknown", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.473150, 19.690552 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Kalijai Temple", "info": "1272-Buildings used as places of worship and for religious activities", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.317012, 19.638707 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Jagulai Temple", "info": "1272-Buildings used as places of worship and for religious activities", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.807285, 19.892413 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "CHC Hospital", "info": "1264-Hospital or institutional care buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.807608, 19.895553 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Unknown", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.599338, 19.769687 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Unknown", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.666569, 19.799361 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Unknown", "info": "1264-Hospital or institutional care buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 86.097630, 19.890574 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "maa jagulai", "info": "1272-Buildings used as places of worship and for religious activities", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.407521, 19.895942 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Unknown", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.539731, 19.727568 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Unknown", "info": "1272-Buildings used as places of worship and for religious activities", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.812873, 19.797359 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Unknown", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.651119, 19.797868 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Malatipatpur", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.831986, 19.865287 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "jaripada govt. hospital", "info": "1264-Hospital or institutional care buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.403828, 19.889818 ] } }
+,
+{ "type": "Feature", "properties": { "obj_type": "12-Non-residential Buildings", "name": "Unknown", "info": "1241-Communication buildings, stations, terminals and associated buildings", "det_method": "Not Applicable", "notation": "Building point", "or_src_id": 994, "dmg_src_id": 997, "cd_value": "Not Applicable" }, "geometry": { "type": "Point", "coordinates": [ 85.613091, 19.787138 ] } }
+
+]
+}

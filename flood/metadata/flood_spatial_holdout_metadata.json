@@ -1,0 +1,53 @@
+{
+    "evaluation": "spatial_holdout",
+    "random_state": 42,
+    "unique_cells": 374,
+    "training_cells": 280,
+    "testing_cells": 94,
+    "rainfall_features": [
+        "rainfall_mm_hr",
+        "rainfall_lag_30min",
+        "rainfall_lag_60min",
+        "rainfall_lag_90min",
+        "rainfall_lag_2hr",
+        "rainfall_change_30min",
+        "rainfall_rolling_1hr",
+        "rainfall_rolling_3hr",
+        "rainfall_rolling_6hr",
+        "spatial_mean_rainfall",
+        "spatial_max_rainfall",
+        "spatial_rainfall_std",
+        "rainfall_to_regional_max",
+        "regional_rainfall_1hr",
+        "regional_rainfall_3hr",
+        "regional_rainfall_6hr"
+    ],
+    "hydrological_features": [
+        "distance_to_water_m",
+        "distance_to_river_m",
+        "distance_to_lake_m",
+        "distance_to_reservoir_m",
+        "distance_to_inundation_area_m",
+        "near_river_1km",
+        "near_river_3km",
+        "near_water_1km",
+        "near_water_3km",
+        "near_inundation_3km",
+        "waterbody_count_5km",
+        "river_segment_count_5km"
+    ],
+    "rainfall_only": {
+        "roc_auc": 0.8025057972987167,
+        "pr_auc": 0.4974723087438907,
+        "precision": 0.404920913884007,
+        "recall": 0.6597938144329897,
+        "f1": 0.5018514484861686
+    },
+    "rainfall_hydrology": {
+        "roc_auc": 0.9634502923976608,
+        "pr_auc": 0.8139808514637814,
+        "precision": 0.7647058823529411,
+        "recall": 0.7222222222222222,
+        "f1": 0.7428571428571429
+    }
+}
