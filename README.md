@@ -144,3 +144,47 @@ acceleration, and turn sin/cos).
   reanalysis steering fields are not captured.
 - **Needs ≥ 12 observed fixes** to predict; more history = better forecast.
 - It predicts **track only** (position), not intensity.
+
+---
+
+# Genesis — 24-hour Tropical Cyclone Genesis (TOOFAN)
+
+The Genesis module predicts 24-hour tropical cyclone genesis. It is a
+**prototype** (300 samples / 191 storms / 2015–2024). See
+[`docs/model_inventory.md`](docs/model_inventory.md) and
+[`docs/model_audit/genesis_integration.md`](docs/model_audit/genesis_integration.md).
+
+## Approved models (ONLY these three)
+
+| Role | Model | Ensemble weight |
+|------|-------|-----------------|
+| **Production (primary)** | LightGBM | 0.40 |
+| Ensemble | XGBoost | 0.35 |
+| Ensemble | RandomForest | 0.25 |
+
+- Threshold: **0.24** (optimized, not 0.50)
+- Target: `genesis_24h`
+- Input: 34 features
+- CatBoost / ExtraTrees / gradient boosting / neural nets are **not** used.
+- Artifacts must be placed under `artifacts/genesis/`:
+  `tc_genesis_{lightgbm,xgboost,randomforest}_300_OPTIMIZED.joblib`
+  (+ optional `tc_genesis_300_imputer.joblib`).
+
+## Run
+
+```bash
+python run_genesis.py --mode production          # LightGBM only
+python run_genesis.py --mode ensemble             # soft-voting (3 models)
+python run_genesis.py --mode production --csv feats.csv --storm-id FANI
+```
+
+If artifacts are missing, the runner reports an explicit `UNAVAILABLE` status —
+it never fabricates a genesis prediction.
+
+## Test
+
+```bash
+python -m pytest tests
+python scripts/verify_genesis_integration.py
+```
+

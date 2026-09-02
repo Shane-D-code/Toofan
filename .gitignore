@@ -25,6 +25,10 @@ Thumbs.db
 *.npy
 *.zip
 
+# Trained model artifacts
+*.joblib
+artifacts/
+
 # Raw data
 data/*.csv
 !data/.gitkeep

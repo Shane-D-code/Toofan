@@ -1,0 +1,72 @@
+# ============================================================================
+# TOOFAN — Pipeline Configuration
+# ============================================================================
+# Single source of truth for the TOOFAN cyclone prediction pipeline.
+#
+# GENESIS MODULE
+#   The Genesis module predicts 24-hour tropical cyclone genesis.
+#   It is a P R O T O T Y P E  (300 samples, 191 storms, 2015-2024).
+#   Three approved ONNX-free native sklearn/LightGBM models are integrated:
+#       LightGBM     (PRIMARY / PRODUCTION)
+#       XGBoost      (ensemble component)
+#       RandomForest (ensemble component)
+#   CatBoost / ExtraTrees / gradient boosting / neural nets are NOT used.
+#
+#   NOTE: The documented report indicates synthetic SST/SST-anomaly and
+#   TCHP/OHC700 values were used, and storm-aware CV performance was lower
+#   than final held-out test performance.  Do not claim production validation.
+# ============================================================================
+
+seed: 42
+
+# ---------------------------------------------------------------------------
+# Native runtime compatibility
+# ---------------------------------------------------------------------------
+runtime:
+  # MUST be set before importing ML frameworks (generates Python warnings
+  # if repeated on some platforms, so setdefault is used at configure time).
+  omp_num_threads: 1
+  enabled: true
+
+# ---------------------------------------------------------------------------
+# Paths
+# ---------------------------------------------------------------------------
+paths:
+  artifacts_dir: "artifacts/genesis"
+  outputs_dir: "results"
+  logs_dir: "logs"
+
+# ---------------------------------------------------------------------------
+# Genesis module
+# ---------------------------------------------------------------------------
+genesis:
+  enabled: true
+  # Valid modes: "production" | "ensemble"
+  mode: production
+
+  # PRIMARY production model (LightGBM only).
+  production_model: lightgbm
+
+  # Calibrated soft-voting ensemble (report/demo / comparative path).
+  ensemble:
+    enabled: true
+    models:
+      lightgbm: 0.40
+      xgboost: 0.35
+      randomforest: 0.25
+
+  # Optimized Genesis decision threshold (documented, NOT 0.50).
+  threshold: 0.24
+
+  # Target definition.
+  target: genesis_24h
+
+  # Input feature count expected by the Genesis models.
+  feature_count: 34
+
+  # Exact artifact filenames (prefer these OPTIMIZED versions).
+  artifacts:
+    lightgbm: "tc_genesis_lightgbm_300_OPTIMIZED.joblib"
+    xgboost: "tc_genesis_xgboost_300_OPTIMIZED.joblib"
+    randomforest: "tc_genesis_randomforest_300_OPTIMIZED.joblib"
+    imputer: "tc_genesis_300_imputer.joblib"
